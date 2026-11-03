@@ -1,0 +1,162 @@
+{
+    "layout": {
+        "type": "layout",
+        "pages": ["general", "appearance", "shortcuts"],
+        "general": {
+            "type": "page",
+            "title": "General",
+            "sections": ["history", "behavior", "privacy"]
+        },
+        "appearance": {
+            "type": "page",
+            "title": "Appearance",
+            "sections": ["look"]
+        },
+        "shortcuts": {
+            "type": "page",
+            "title": "Shortcuts",
+            "sections": ["keys"]
+        },
+        "history": {
+            "type": "section",
+            "title": "History",
+            "keys": ["history-length", "history-minutes", "on-new-session", "protect-pinned", "protect-tagged"]
+        },
+        "behavior": {
+            "type": "section",
+            "title": "Behavior",
+            "keys": ["paste-on-select", "copy-sound", "show-tray-icon"]
+        },
+        "privacy": {
+            "type": "section",
+            "title": "Privacy",
+            "keys": ["incognito", "excluded-apps"]
+        },
+        "look": {
+            "type": "section",
+            "title": "Clipboard bar",
+            "keys": ["position", "item-width", "item-height", "image-fit"]
+        },
+        "keys": {
+            "type": "section",
+            "title": "Keyboard shortcuts",
+            "keys": ["shortcut-open", "shortcut-incognito"]
+        }
+    },
+    "history-length": {
+        "type": "spinbutton",
+        "default": 30,
+        "min": 5,
+        "max": 500,
+        "step": 5,
+        "units": "items",
+        "description": "Items to keep",
+        "tooltip": "Pinned and tagged items are kept on top of this limit."
+    },
+    "history-minutes": {
+        "type": "spinbutton",
+        "default": 0,
+        "min": 0,
+        "max": 43200,
+        "step": 60,
+        "units": "minutes",
+        "description": "Forget items older than",
+        "tooltip": "0 keeps items until the limit above is reached. Pinned and tagged items never expire."
+    },
+    "on-new-session": {
+        "type": "combobox",
+        "default": "keep-all",
+        "description": "When you log in again",
+        "options": {
+            "Keep everything": "keep-all",
+            "Keep only pinned and tagged items": "keep-pinned-and-tagged",
+            "Start with an empty history": "clear"
+        }
+    },
+    "protect-pinned": {
+        "type": "switch",
+        "default": true,
+        "description": "Protect pinned items",
+        "tooltip": "Pinned items can only be deleted with Shift+Delete."
+    },
+    "protect-tagged": {
+        "type": "switch",
+        "default": true,
+        "description": "Protect tagged items",
+        "tooltip": "Tagged items can only be deleted with Shift+Delete."
+    },
+    "paste-on-select": {
+        "type": "switch",
+        "default": true,
+        "description": "Paste when an item is chosen",
+        "tooltip": "On: Enter and click paste into the focused app (Shift copies only). Off: they only copy (Shift pastes)."
+    },
+    "copy-sound": {
+        "type": "switch",
+        "default": true,
+        "description": "Play a sound when something is copied"
+    },
+    "show-tray-icon": {
+        "type": "switch",
+        "default": true,
+        "description": "Show the tray icon"
+    },
+    "incognito": {
+        "type": "switch",
+        "default": false,
+        "description": "Incognito mode",
+        "tooltip": "While on, nothing new is saved to the history."
+    },
+    "excluded-apps": {
+        "type": "entry",
+        "default": "",
+        "description": "Ignore copies from these apps",
+        "tooltip": "Window classes separated by commas, for example: keepassxc, bitwarden"
+    },
+    "position": {
+        "type": "combobox",
+        "default": "bottom",
+        "description": "Position on screen",
+        "options": {
+            "Bottom": "bottom",
+            "Top": "top"
+        }
+    },
+    "item-width": {
+        "type": "spinbutton",
+        "default": 250,
+        "min": 160,
+        "max": 500,
+        "step": 10,
+        "units": "pixels",
+        "description": "Card width"
+    },
+    "item-height": {
+        "type": "spinbutton",
+        "default": 170,
+        "min": 100,
+        "max": 400,
+        "step": 10,
+        "units": "pixels",
+        "description": "Card height"
+    },
+    "image-fit": {
+        "type": "combobox",
+        "default": "cover",
+        "description": "Images",
+        "options": {
+            "Fill the card (crop)": "cover",
+            "Show the whole image": "contain"
+        }
+    },
+    "shortcut-open": {
+        "type": "keybinding",
+        "default": "<Super>v",
+        "description": "Open the clipboard history"
+    },
+    "shortcut-incognito": {
+        "type": "keybinding",
+        "default": "<Super><Control><Shift>v",
+        "description": "Toggle incognito mode"
+    }
+}
