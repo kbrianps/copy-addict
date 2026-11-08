@@ -1,0 +1,15 @@
+[Unit]
+Description=copy-addict clipboard history
+PartOf=graphical-session.target
+After=graphical-session.target plasma-kwin_wayland.service
+
+[Service]
+Type=dbus
+BusName=org.kbrianps.CopyAddict
+ExecStart=@BIN@
+Restart=on-failure
+RestartSec=2
+Slice=app.slice
+
+[Install]
+WantedBy=graphical-session.target

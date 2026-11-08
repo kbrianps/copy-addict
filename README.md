@@ -4,6 +4,8 @@ Clipboard history for the Cinnamon desktop, modelled on [Copyous](https://github
 
 Press <kbd>Super</kbd>+<kbd>V</kbd>, pick something you copied earlier, and it is pasted into the app you were using.
 
+**On KDE Plasma?** There is a native Qt version for Plasma 6 on Wayland in [`kde/`](kde/README.md), with the same features and the same history file.
+
 ![copy-addict bar](docs/screenshot.png)
 
 ## Features

@@ -1,0 +1,344 @@
+# Template for copy-addict (KDE) translations.
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Open the clipboard history"
+msgstr ""
+
+msgid "Toggle incognito mode"
+msgstr ""
+
+msgid "copy-addict: incognito mode on"
+msgstr ""
+
+msgid "copy-addict: incognito mode off"
+msgstr ""
+
+msgid "just now"
+msgstr ""
+
+msgid "%1 minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%1 hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "yesterday"
+msgstr ""
+
+msgid "%1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%1 week ago"
+msgid_plural "%1 weeks ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%1 month ago"
+msgid_plural "%1 months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "%1 year ago"
+msgid_plural "%1 years ago"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Paste as %1: %2"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Teal"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Pink"
+msgstr ""
+
+msgid "Purple"
+msgstr ""
+
+msgid "Slate"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Character"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Open clipboard history"
+msgstr ""
+
+msgid "Incognito mode"
+msgstr ""
+
+msgid "Clear history…"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Incognito: not saving"
+msgstr ""
+
+msgid "Clipboard history"
+msgstr ""
+
+msgid "Open clipboard history (%1)"
+msgstr ""
+
+msgid "Protected item: use Shift+Delete to delete it"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Copy without pasting"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit title"
+msgstr ""
+
+msgid "Open in browser"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Show in folder"
+msgstr ""
+
+msgid "Paste as path"
+msgstr ""
+
+msgid "Unpin"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Pinned"
+msgstr ""
+
+msgid "Search in: %1"
+msgstr ""
+
+msgid "Incognito: nothing new is saved"
+msgstr ""
+
+msgid "Type to search"
+msgstr ""
+
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "No items found"
+msgstr ""
+
+msgid "Clipboard is empty"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Missing image"
+msgstr ""
+
+msgid "No title"
+msgstr ""
+
+msgid "Loading preview…"
+msgstr ""
+
+msgid "Missing file"
+msgstr ""
+
+msgid "+%1 file"
+msgid_plural "+%1 files"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Clear history?"
+msgstr ""
+
+msgid "Deleted items cannot be recovered."
+msgstr ""
+
+msgid "Also delete pinned and tagged items"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Edit item"
+msgstr ""
+
+msgid "Ctrl+Enter saves · Esc cancels"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "copy-addict settings"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Items to keep:"
+msgstr ""
+
+msgid "Forget items older than (minutes):"
+msgstr ""
+
+msgid "When you log in again:"
+msgstr ""
+
+msgid "Keep everything"
+msgstr ""
+
+msgid "Keep only pinned and tagged items"
+msgstr ""
+
+msgid "Start with an empty history"
+msgstr ""
+
+msgid "Protection:"
+msgstr ""
+
+msgid "Protect pinned items"
+msgstr ""
+
+msgid "Protect tagged items"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Paste when an item is chosen"
+msgstr ""
+
+msgid "Play a sound when something is copied"
+msgstr ""
+
+msgid "Show the tray icon"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Ignore copies from these apps:"
+msgstr ""
+
+msgid "keepassxc, org.gnome.seahorse"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Position on screen:"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Card width:"
+msgstr ""
+
+msgid "Card height:"
+msgstr ""
+
+msgid "Images:"
+msgstr ""
+
+msgid "Fill the card (crop)"
+msgstr ""
+
+msgid "Show the whole image"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Open the clipboard history:"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Toggle incognito mode:"
+msgstr ""
+
+msgid "Change shortcuts…"
+msgstr ""
+
+msgid "copy-addict %1"
+msgstr ""
+
+msgid "0 keeps items until the limit above is reached. Pinned and tagged items never expire."
+msgstr ""
+
+msgid "Window classes, separated by commas. Password managers are always ignored when they mark their copies."
+msgstr ""

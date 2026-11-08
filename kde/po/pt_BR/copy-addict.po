@@ -1,0 +1,349 @@
+# Brazilian Portuguese translation of copy-addict (KDE).
+msgid ""
+msgstr ""
+"Project-Id-Version: copy-addict 0.1.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Open the clipboard history"
+msgstr "Abrir o histórico"
+
+msgid "Toggle incognito mode"
+msgstr "Ligar/desligar o modo incógnito"
+
+msgid "copy-addict: incognito mode on"
+msgstr "copy-addict: modo incógnito ligado"
+
+msgid "copy-addict: incognito mode off"
+msgstr "copy-addict: modo incógnito desligado"
+
+msgid "just now"
+msgstr "agora"
+
+msgid "%1 minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] "há %1 min"
+msgstr[1] "há %1 min"
+
+msgid "%1 hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] "há %1 hora"
+msgstr[1] "há %1 horas"
+
+msgid "yesterday"
+msgstr "ontem"
+
+msgid "%1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] "há %1 dia"
+msgstr[1] "há %1 dias"
+
+msgid "%1 week ago"
+msgid_plural "%1 weeks ago"
+msgstr[0] "há %1 semana"
+msgstr[1] "há %1 semanas"
+
+msgid "%1 month ago"
+msgid_plural "%1 months ago"
+msgstr[0] "há %1 mês"
+msgstr[1] "há %1 meses"
+
+msgid "%1 year ago"
+msgid_plural "%1 years ago"
+msgstr[0] "há %1 ano"
+msgstr[1] "há %1 anos"
+
+msgid "Paste as %1: %2"
+msgstr "Colar como %1: %2"
+
+msgid "Blue"
+msgstr "Azul"
+
+msgid "Teal"
+msgstr "Verde-azulado"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Yellow"
+msgstr "Amarelo"
+
+msgid "Orange"
+msgstr "Laranja"
+
+msgid "Red"
+msgstr "Vermelho"
+
+msgid "Pink"
+msgstr "Rosa"
+
+msgid "Purple"
+msgstr "Roxo"
+
+msgid "Slate"
+msgstr "Ardósia"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "Files"
+msgstr "Arquivos"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "Character"
+msgstr "Caractere"
+
+msgid "Text"
+msgstr "Texto"
+
+msgid "Folder"
+msgstr "Pasta"
+
+msgid "Open clipboard history"
+msgstr "Abrir histórico"
+
+msgid "Incognito mode"
+msgstr "Modo incógnito"
+
+msgid "Clear history…"
+msgstr "Limpar histórico…"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Quit"
+msgstr "Sair"
+
+msgid "Incognito: not saving"
+msgstr "Incógnito: não está salvando"
+
+msgid "Clipboard history"
+msgstr "Histórico da área de transferência"
+
+msgid "Open clipboard history (%1)"
+msgstr "Abrir histórico (%1)"
+
+msgid "Protected item: use Shift+Delete to delete it"
+msgstr "Item protegido: use Shift+Delete para apagar"
+
+msgid "Paste"
+msgstr "Colar"
+
+msgid "Copy without pasting"
+msgstr "Copiar sem colar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit title"
+msgstr "Editar título"
+
+msgid "Open in browser"
+msgstr "Abrir no navegador"
+
+msgid "Open"
+msgstr "Abrir"
+
+msgid "Show in folder"
+msgstr "Mostrar na pasta"
+
+msgid "Paste as path"
+msgstr "Colar como caminho"
+
+msgid "Unpin"
+msgstr "Desafixar"
+
+msgid "Pin"
+msgstr "Fixar"
+
+msgid "Delete"
+msgstr "Apagar"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Pinned"
+msgstr "Fixados"
+
+msgid "Search in: %1"
+msgstr "Pesquisar em: %1"
+
+msgid "Incognito: nothing new is saved"
+msgstr "Modo incógnito: nada novo é salvo"
+
+msgid "Type to search"
+msgstr "Digite para pesquisar"
+
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 item"
+msgstr[1] "%1 itens"
+
+msgid "Clear"
+msgstr "Limpar"
+
+msgid "No items found"
+msgstr "Nenhum item encontrado"
+
+msgid "Clipboard is empty"
+msgstr "A área de transferência está vazia"
+
+msgid "Filter"
+msgstr "Filtrar"
+
+msgid "Missing image"
+msgstr "Imagem ausente"
+
+msgid "No title"
+msgstr "Sem título"
+
+msgid "Loading preview…"
+msgstr "Carregando prévia…"
+
+msgid "Missing file"
+msgstr "Arquivo ausente"
+
+msgid "+%1 file"
+msgid_plural "+%1 files"
+msgstr[0] "+%1 arquivo"
+msgstr[1] "+%1 arquivos"
+
+msgid "Clear history?"
+msgstr "Limpar o histórico?"
+
+msgid "Deleted items cannot be recovered."
+msgstr "Os itens apagados não podem ser recuperados."
+
+msgid "Also delete pinned and tagged items"
+msgstr "Apagar também os fixados e com etiqueta"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Edit item"
+msgstr "Editar item"
+
+msgid "Ctrl+Enter saves · Esc cancels"
+msgstr "Ctrl+Enter salva · Esc cancela"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "copy-addict settings"
+msgstr "Configurações do copy-addict"
+
+msgid "History"
+msgstr "Histórico"
+
+msgid "Items to keep:"
+msgstr "Itens guardados:"
+
+msgid "Forget items older than (minutes):"
+msgstr "Esquecer itens com mais de (minutos):"
+
+msgid "When you log in again:"
+msgstr "Ao entrar de novo na sessão:"
+
+msgid "Keep everything"
+msgstr "Manter tudo"
+
+msgid "Keep only pinned and tagged items"
+msgstr "Manter só os fixados e com etiqueta"
+
+msgid "Start with an empty history"
+msgstr "Começar com o histórico vazio"
+
+msgid "Protection:"
+msgstr "Proteção:"
+
+msgid "Protect pinned items"
+msgstr "Proteger itens fixados"
+
+msgid "Protect tagged items"
+msgstr "Proteger itens com etiqueta"
+
+msgid "Behavior"
+msgstr "Comportamento"
+
+msgid "Paste when an item is chosen"
+msgstr "Colar ao escolher um item"
+
+msgid "Play a sound when something is copied"
+msgstr "Tocar um som ao copiar"
+
+msgid "Show the tray icon"
+msgstr "Mostrar o ícone na bandeja"
+
+msgid "Privacy"
+msgstr "Privacidade"
+
+msgid "Ignore copies from these apps:"
+msgstr "Ignorar cópias destes apps:"
+
+msgid "keepassxc, org.gnome.seahorse"
+msgstr "keepassxc, org.gnome.seahorse"
+
+msgid "Appearance"
+msgstr "Aparência"
+
+msgid "Position on screen:"
+msgstr "Posição na tela:"
+
+msgid "Bottom"
+msgstr "Embaixo"
+
+msgid "Top"
+msgstr "Em cima"
+
+msgid "Card width:"
+msgstr "Largura dos cartões:"
+
+msgid "Card height:"
+msgstr "Altura dos cartões:"
+
+msgid "Images:"
+msgstr "Imagens:"
+
+msgid "Fill the card (crop)"
+msgstr "Preencher o cartão (cortar)"
+
+msgid "Show the whole image"
+msgstr "Mostrar a imagem inteira"
+
+msgid "Shortcuts"
+msgstr "Atalhos"
+
+msgid "Open the clipboard history:"
+msgstr "Abrir o histórico:"
+
+msgid "None"
+msgstr "Nenhum"
+
+msgid "Toggle incognito mode:"
+msgstr "Ligar/desligar o modo incógnito:"
+
+msgid "Change shortcuts…"
+msgstr "Mudar atalhos…"
+
+msgid "copy-addict %1"
+msgstr "copy-addict %1"
+
+msgid "0 keeps items until the limit above is reached. Pinned and tagged items never expire."
+msgstr "0 guarda os itens até atingir o limite acima. Itens fixados e com etiqueta nunca expiram."
+
+msgid "Window classes, separated by commas. Password managers are always ignored when they mark their copies."
+msgstr "Classes de janela, separadas por vírgula. Gerenciadores de senha são sempre ignorados quando marcam suas cópias."

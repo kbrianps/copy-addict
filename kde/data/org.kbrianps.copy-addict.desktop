@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Name=copy-addict
+GenericName=Clipboard History
+GenericName[pt_BR]=Histórico da área de transferência
+Comment=Pick something you copied earlier and paste it
+Comment[pt_BR]=Escolha algo que você copiou antes e cole
+Exec=@BIN@ --toggle
+Icon=edit-paste
+Terminal=false
+Categories=Utility;Qt;KDE;
+Keywords=clipboard;history;paste;copy;
+Keywords[pt_BR]=área de transferência;histórico;colar;copiar;
+StartupNotify=false
+NoDisplay=false
+X-KDE-Wayland-Interfaces=org_kde_kwin_fake_input
