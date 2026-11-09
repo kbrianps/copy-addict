@@ -32,6 +32,10 @@ static int sendToRunning(const QString &method, const QVariantList &args = {})
 
 int main(int argc, char **argv)
 {
+    // Plasma asks Qt apps to reconnect when KWin restarts. Here that would leave the
+    // fake-input binding and the KWin script tied to the old compositor (paste stops
+    // working), so quit instead: the systemd service starts a fresh instance.
+    qunsetenv("QT_WAYLAND_RECONNECT");
     QApplication::setDesktopFileName(QStringLiteral("org.kbrianps.copy-addict"));
     QApplication::setApplicationName(QStringLiteral("copy-addict"));
     QApplication::setApplicationVersion(QStringLiteral(COPY_ADDICT_VERSION));
